@@ -92,4 +92,4 @@ Backend API → http://localhost:5050
 Developed by Arel
 - 💼 Role: Fullstack Web Developer
 - 📧 Contact: [arelarel576@gmail.com]
-- 🌐 Portfolio: [arelsmith.my.id]
+- 🌐 Portfolio: [here](arelsmith.my.id)
