@@ -1,0 +1,16 @@
+{
+  "name": "cbt-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"yarn run server\" \"yarn run client\" ",
+    "server": "cd server && yarn dev",
+    "client": "cd client && yarn dev"
+  },
+  "repository": "https://github.com/ArelSmith/cbt-application.git",
+  "author": "Shida <wonderfulofgame@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
