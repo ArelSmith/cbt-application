@@ -1,7 +1,7 @@
 # 🧠 CBT School System
 
 A **Computer-Based Test (CBT)** web application designed for school institutions to conduct secure, efficient, and fully digital exams.  
-Built with **Next.js**, **Express.js**, **MySQL**, and **Docker** for modular scalability and simple deployment.
+Built with **Next.js**, **Express.js**, and **MySQL** for modular scalability and simple deployment.
 
 ---
 
